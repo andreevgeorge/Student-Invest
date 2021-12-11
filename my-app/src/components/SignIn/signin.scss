@@ -1,0 +1,26 @@
+.signinDiv {
+  display: flex;
+  justify-content: center;
+    align-items: center;
+  height: 100vh;
+  background: linear-gradient(
+      rgba(253, 249, 249, 0.25),
+      rgba(255, 255, 255, 0.25)
+    ),
+    url("https://www.thebalancesmb.com/thmb/frXg23nhpR0jOtkNVyoCGFWeXPc=/2022x1137/smart/filters:no_upscale()/businessmeeting1getty-56a82e653df78cf7729cd7ed.jpg")
+      center;
+  height: 95vh;
+}
+
+.signinForm {
+  margin-top: 3cm;
+  background-color: white;
+  width: 15cm;
+  height: 8cm;
+  border-radius: 10px;
+
+  // align-items: center;
+}
+
+.mainform {
+}
